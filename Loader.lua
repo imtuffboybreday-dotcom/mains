@@ -1,5 +1,5 @@
-local CONFIG_URL = "https://raw.githubusercontent.com/imtuffboybreday-dotcom/LeoWinners/mains/Config.lua"
-local CORE_URL = "https://raw.githubusercontent.com/imtuffboybreday-dotcom/LeoWinners/mains/Core.lua"
+local CONFIG_URL = "https://raw.githubusercontent.com/imtuffboybreday-dotcom/LeoWinners/main/Config.lua"
+local CORE_URL = "https://raw.githubusercontent.com/imtuffboybreday-dotcom/LeoWinners/main/Core.lua"
 
 local function fetch(url)
     local ok, result = pcall(function()
